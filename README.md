@@ -2,6 +2,7 @@
 
  ## 🔗 Socials:
  [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Messxrem)
+ ### Our team:
  [![Our team](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/rescue_alpha)
  
  ## 🛠 Languages and Tools:
