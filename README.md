@@ -1,5 +1,5 @@
-## 👨‍💻 Hello world!
-### Solidity & Python developer | Web3 enthusiast | Alpha Rescue team - [link](https://t.me/rescue_alpha)
+## 👨‍💻 Solidity & Python developer
+### Alpha Rescue team - [link](https://t.me/rescue_alpha)
 
 ## 🔗 Socials:
  [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Messxrem)
