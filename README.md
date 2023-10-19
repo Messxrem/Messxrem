@@ -1,4 +1,4 @@
-### Solidity & Python developer. Web3 enthusiast. Alpha Rescue Team - [link](https://t.me/rescue_alpha)
+### 👨‍💻 Solidity & Python developer. Web3 enthusiast. Alpha Rescue Team - [link](https://t.me/rescue_alpha)
 
 ## 🔗 Socials:
  [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Messxrem)
@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 
-## 🛠 Stats:
+## 📊 Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Messxrem&layout=compact&theme=github_dark)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Messxrem&show_icons=true&theme=github_dark)](https://github-readme-stats.vercel.app/api?username=Messxrem&show_icons=true&theme=github_dark)
