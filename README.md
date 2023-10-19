@@ -9,9 +9,9 @@
 ![](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 
 ## 📊 Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Messxrem&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Messxrem&layout=compact&theme=blue_navy)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Messxrem&show_icons=true&theme=github_dark)](https://github-readme-stats.vercel.app/api?username=Messxrem&show_icons=true&theme=github_dark)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Messxrem&show_icons=true&theme=github_dark)](https://github-readme-stats.vercel.app/api?username=Messxrem&show_icons=true&theme=blue_navy)
 
 ## 🔗 Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Messxrem)
