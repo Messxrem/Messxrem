@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### :hammer_and_wrench: Languages and Tools :
+ ## :hammer_and_wrench: Languages and Tools:
 ![WEB3](https://img.shields.io/badge/-web3-090909?style=for-the-badge&logo=ethereum)
 ![Solidity](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
 ![Hardhat](https://hardhat.org/_next/static/media/hardhat-logo-dark.484eb916.svg)
