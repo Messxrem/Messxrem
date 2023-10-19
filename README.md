@@ -3,8 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=Messxrem&color=blue&style=flat)
  
 ## 🛠 Languages and Tools:
-![](https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white)
-![GG](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/-solidity-090909?style=for-the-badge&logo=Solidity&logoColor=white)
+![](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
 ![](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 
