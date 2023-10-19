@@ -1,10 +1,7 @@
-### Hi there 👋
+### Solidity & Python developer. Web3 enthusiast. Alpha Rescue Team - [link](https://t.me/rescue_alpha)
 
 ## 🔗 Socials:
  [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Messxrem)
- 
-### Our team:
- [![Our team](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/rescue_alpha)
  
 ## 🛠 Languages and Tools:
 ![](https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white)
