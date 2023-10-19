@@ -1,8 +1,6 @@
 ## 👨‍💻 Solidity & Python developer
 ### Alpha Rescue team - [link](https://t.me/rescue_alpha)
-
-## 🔗 Socials:
- [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Messxrem)
+![](https://komarev.com/ghpvc/?username=Messxrem&color=blue&style=flat)
  
 ## 🛠 Languages and Tools:
 ![](https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white)
@@ -14,3 +12,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Messxrem&layout=compact&theme=github_dark)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Messxrem&show_icons=true&theme=github_dark)](https://github-readme-stats.vercel.app/api?username=Messxrem&show_icons=true&theme=github_dark)
+
+## 🔗 Socials:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Messxrem)
