@@ -11,7 +11,7 @@
 ## 📊 Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Messxrem&layout=compact&theme=blue_navy)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Messxrem&show_icons=true&theme=github_dark)](https://github-readme-stats.vercel.app/api?username=Messxrem&show_icons=true&theme=blue_navy)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Messxrem&show_icons=true&theme=blue_navy)](https://github-readme-stats.vercel.app/api?username=Messxrem&show_icons=true&theme=blue_navy)
 
 ## 🔗 Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Messxrem)
