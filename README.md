@@ -1,5 +1,4 @@
-## 👨‍💻 Solidity & Python developer
-### Alpha Rescue team - [link](https://t.me/rescue_alpha)
+## 👨‍💻 0xLabs CTO
 ![](https://komarev.com/ghpvc/?username=Messxrem&color=blue&style=flat)
  
 ## 🛠 Languages and Tools:
